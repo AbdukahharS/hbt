@@ -175,6 +175,8 @@ p {
   float: left;
   padding: 50px;
   text-align: center;
+  min-height: fit-content;
+  height: 100%;
 }
 
 .box i {
